@@ -16,6 +16,18 @@ The GIF above demonstrates the detection process in action.
 - **Disease Classification**: Accurately classify leaf diseases based on the uploaded image.
 - **Results Visualization**: Provides clear results with disease information and suggested remedies.
 - **User-Friendly Interface**: Simple and intuitive interface for users of all levels.
+ 
+## Creating the `.h5` File
+
+To generate the necessary `.h5` file for the Leaf Diseases Detection project, follow these steps:
+
+### Step 1: Run any one file mentioned in "Dataset train python files" folder
+### Step 2: After successfully run file you get the .h5 file based on model file which you run
+### Step 3: Just copy that file in project folder here (leaf-diseases-detection/)
+
+Ensure you have all required dependencies installed.
+- **Important**: If you have low specs in your machine then the process takes time.
+
 
 ## Dataset
 
