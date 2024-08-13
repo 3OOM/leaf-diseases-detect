@@ -25,8 +25,10 @@ To generate the necessary `.h5` file for the Leaf Diseases Detection project, fo
 ### Step 2: After successfully run file you get the .h5 file based on model file which you run
 ### Step 3: Just copy that file in project folder here (leaf-diseases-detection/)
 
+## .pkl File is Provided 
 Ensure you have all required dependencies installed.
 - **Important**: If you have low specs in your machine then the process takes time.
+- **I'm providing pickle file(model_vgg16.pkl and model_inception.pkl) just copy into project directory**
 
 
 ## Dataset
